@@ -1,0 +1,21 @@
+ID,Produto,Categoria,Quantidade,Preço Unitário (R$),Fornecedor
+1,Arroz,Alimentos,99,46.1,Viana
+2,Feijão,Alimentos,39,26.34,Freitas S.A.
+3,Leite,Bebidas,13,36.93,Dias S/A
+4,Refrigerante,Bebidas,69,25.01,Fernandes
+5,Sabonete,Higiene,82,9.11,Araújo - ME
+6,Shampoo,Higiene,61,44.32,Cardoso Costa S/A
+7,Detergente,Limpeza,38,31.13,Nunes Carvalho - EI
+8,Papel Higiênico,Higiene,42,5.75,Moura
+9,Farinha de Trigo,Alimentos,31,5.12,Silveira
+10,Cerveja,Bebidas,43,10.38,da Mota Ltda.
+11,Macarrão,Alimentos,15,8.47,Pereira Almeida - EI
+12,Água Mineral,Bebidas,68,2.05,Martins
+13,Desinfetante,Limpeza,39,20.2,Araújo
+14,Escova de Dente,Higiene,24,13.61,da Mota e Filhos
+15,Achocolatado,Alimentos,86,34.85,da Mota
+16,Açúcar,Alimentos,51,6.09,Nunes
+17,Café,Alimentos,8,39.09,Pereira S/A
+18,Amaciante,Limpeza,72,25.85,Castro Santos e Filhos
+19,Sabão em Pó,Limpeza,15,48.84,Lopes S.A.
+20,Desodorante,Higiene,28,6.23,Rodrigues Lopes S/A
