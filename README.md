@@ -29,9 +29,9 @@ Este projeto é um dashboard web que permite visualizar e analisar dados de esto
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/70b463dc-1d2c-4125-9a99-9669087cff4c)
+![image](https://github.com/user-attachments/assets/426e8956-0601-423e-bc85-8e6ae774a47a)
 
-![image](https://github.com/user-attachments/assets/b1a88ce0-650a-4414-96b6-c37432aa59aa)
+![image](https://github.com/user-attachments/assets/70b463dc-1d2c-4125-9a99-9669087cff4c)
 
 ![image](https://github.com/user-attachments/assets/2e7cf40c-72ce-4014-8d03-ea34e9350733)
 
