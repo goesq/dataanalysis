@@ -8,7 +8,7 @@ df = pd.read_csv("mercado_dados.csv")
 # Cálculo de valor total por produto
 df["Valor Total (R$)"] = df["Quantidade"] * df["Preço Unitário (R$)"]
 
-st.set_page_config(page_title="Dashboard Mercado", layout="wide")
+st.set_page_config(page_title="Controle Mercado", layout="wide")
 
 st.title("📊 Dashboard - Controle de Estoque do Mercado")
 
