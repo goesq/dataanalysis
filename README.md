@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af91ee14-c3b9-4ddd-a569-dd9d6e5444f9)# 📊 Dashboard de Controle de Estoque para Mercado
+# 📊 Dashboard de Controle de Estoque para Mercado
 
 Um dashboard interativo para gerenciamento de estoque desenvolvido com Streamlit, Pandas e Plotly.
 
@@ -29,8 +29,9 @@ Este projeto é um dashboard web que permite visualizar e analisar dados de esto
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/e61b4e54-2a5c-49c6-84f7-7b305539bd90)
+![image](https://github.com/user-attachments/assets/70b463dc-1d2c-4125-9a99-9669087cff4c)
 
-![image](https://github.com/user-attachments/assets/f8851a7b-e2db-40de-88ae-71576249313c)
+![image](https://github.com/user-attachments/assets/b1a88ce0-650a-4414-96b6-c37432aa59aa)
 
-![image](https://github.com/user-attachments/assets/fd325512-9fac-46a3-b932-f85388354510)
+![image](https://github.com/user-attachments/assets/2e7cf40c-72ce-4014-8d03-ea34e9350733)
+
