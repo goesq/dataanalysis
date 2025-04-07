@@ -9,7 +9,6 @@ df = pd.read_csv("mercado_dados.csv")
 df["Valor Total (R$)"] = df["Quantidade"] * df["Preço Unitário (R$)"]
 
 st.set_page_config(page_title="Controle Mercado", layout="wide")
-
 st.title("📊 Dashboard - Controle de Estoque do Mercado")
 
 # Filtros
